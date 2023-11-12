@@ -1,7 +1,7 @@
 Line 1 updated
 Line 2 updated
-Line 3
-Line 4
+Line 3 new
+Line 4 new
 Line 5
 Line 6
 Line 7
