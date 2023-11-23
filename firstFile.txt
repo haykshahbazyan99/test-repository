@@ -3,10 +3,13 @@ Line 2 updated
 Line 3 new
 Line 4 new
 Line 5
+<<<<<<< Updated upstream
 Line 6
 Line 7
 Line 8 updated
 Line 9 updated
+=======
+>>>>>>> Stashed changes
 Line 6 changed
 Line 7 changed
 Line 8
